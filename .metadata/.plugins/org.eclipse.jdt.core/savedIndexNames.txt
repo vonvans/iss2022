@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/wollo/Desktop/Ingegneria Software/ISSLab2022/.metadata/.plugins/org.eclipse.jdt.core
+2888586291.index
+4099525063.index
+1865797976.index
